@@ -4,7 +4,7 @@ namespace Heranca.Funcionarios
     {
         public override double getBonificacao()
         {
-            return this.Salario;
+            return this.Salario + base.getBonificacao();
         }
     }
 }
