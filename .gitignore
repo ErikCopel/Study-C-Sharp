@@ -1,2 +1,6 @@
 /HerancaEInterfaces.sln
 /HerancaEInterfaces.sln.DotSettings.user
+/.idea
+*/bin
+*/obj
+*.csproj
