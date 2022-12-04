@@ -13,7 +13,7 @@ namespace ClassesAbstratas.Funcionarios
 
         public override double getBonificacao()
         {
-            throw new System.NotImplementedException();
+            return this.Salario * 1.10;
         }
     }
 }
